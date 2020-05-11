@@ -1,0 +1,70 @@
+body{
+	font-family:Andale Mono, monospace; 
+}
+h1{
+	font-weight:bold;
+	text-align: center;
+	color:black;
+	font-size: 175%;
+	margin-top: 35px;
+}
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+div{
+	background-color: grey;
+	height: 150px;
+	width: 460px;
+	margin-top: 60px;
+	margin-right: 20px;
+	margin-left: 30px;
+	border:2px solid black;
+	font-size: 80%;
+	padding:30px;
+	font-weight:bold;
+	box-sizing: border-box;
+	text-align:left;
+	float:left;
+}
+#sb1
+{
+	background-color: pink;
+	height: 25px;
+	width: 70px;
+	border:2px solid black;
+	font-size: 120%;
+	padding:2px;
+	font-weight:bold;
+	float:right;
+	color:black;
+	text-align: center;
+	}
+
+#sb2
+{
+background-color: red;
+	height: 25px;
+	width: 70px;
+	border:2px solid black;
+	font-size: 120%;
+	padding:2px;
+	font-weight:bold;
+	float:right;
+	color:black;
+	text-align: center;
+}
+#sb3
+{
+	background-color:#FFA07A ;
+	height: 25px;
+	width: 70px;
+	border:2px solid black;
+	font-size: 120%;
+	padding:2px;
+	font-weight:bold;
+	float:right;
+	color:black;
+    text-align: center;
+}
